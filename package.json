@@ -1,0 +1,23 @@
+{
+  "name": "06-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCastillo125/curso-node-webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCastillo125/curso-node-webserver/issues"
+  },
+  "homepage": "https://github.com/DanielCastillo125/curso-node-webserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
